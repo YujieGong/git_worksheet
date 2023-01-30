@@ -21,3 +21,7 @@ g:::::gg   gg:::::g
   gg:::::::::::::g                                 
     ggg::::::ggg                                   
        gggggg                                      
+
+git is a command line program 
+git can keeps track of each lines of the file
+git is not good at saving files 
